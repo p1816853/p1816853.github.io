@@ -1,0 +1,244 @@
+<style>
+
+*{box-sizing: border-box;}
+
+body{
+    padding: 10px;
+}
+
+.container{
+	width: 1280px;
+	min-height:1050px;
+	margin: 0 auto;
+	border: 1px solid black;
+	display: table;
+    background-image: url("Back1.jpg");
+
+}
+
+img{
+	width:50%;
+	height:65%;
+    Border:10px solid black;
+	
+}
+
+.grey{
+	position:absolute;
+    top:580px;
+    left:250px;
+    height:70%;
+    width:33.33%;
+
+}
+
+.black{
+	position:absolute;
+    left:470px;
+	top:580px;
+    height:70%;
+    width:33.33%;
+}
+
+.blackie{
+	position:absolute;
+    top:580px;
+    height:70%;
+    width:33.33%;
+    left:30px;
+}
+
+.wa{
+   position:absolute;
+   top:580px;
+   left:690px;
+   height:70%;
+   width:33.33%;
+}
+
+.wb{
+   position:absolute;
+   top:580px;
+   left:910px;
+   height:70%;
+   width:33.33%;
+}
+
+section{
+	width: 100%;
+	min-height: 50px;
+    clear: both;
+	display: table;
+}
+
+.column{
+	float: left;
+    min-height: 50px;
+	margin-bottom: -4px; 
+    font-size:15px;
+}
+
+.col2{width: 100%;}
+.col3{
+	width: 100%;
+    height:200px
+
+}
+.col31{width: 33.33%;}
+.col4{width: 100%;}
+.col43{width: 100%;}
+.col5{width: 33.33%;
+      height:10px;
+      left:250px;
+      top:100px;
+}
+.col6{width: 100%;}
+
+header{
+	width: 100%;
+	min-height: 200px;
+	clear: both;
+	font-size:100px;
+	background-color:white;
+	font-family: 'Lobster', cursive;
+}
+
+footer{
+	width: 100%;
+	clear: both;
+	padding: 30px;
+}
+
+
+nav{
+	width: 100%;
+	clear: both;
+	padding: 30px;	
+	border: 1px solid black;
+}
+
+nav{
+   background:black;
+text-align:center;
+}
+
+nav a{
+color:white;
+display:inline-block;
+padding:20px;
+}
+
+nav a:hover{
+background:red;
+text-declaration: none;
+
+}
+
+
+nav{
+width:100%;
+}
+
+.menTR{
+width:33.33%;
+height:10px;
+float:left;
+}
+
+.menTP{
+	width:33.33%;
+	height:10px;
+	position:absolute;
+	left:337px;
+	top:338px;
+}
+	
+.menP{
+	width:33.33%;
+	height:100px;
+    position:absolute;
+	top:338px;
+	left:657px;
+}
+	
+.menA{
+    width:33.33%;
+	height:100px;
+    position:absolute;
+	top:338px;
+	left:987px;
+}
+
+.womenTR{
+	width:33.33%;
+height:10px;
+float:left;
+}
+
+.womenTP{
+	width:33.33%;
+	height:100px;
+	position:absolute;
+	left:337px;
+	top:338px;
+}
+
+.womenP{
+    width:33.33%;
+	height:100px;
+    position:absolute;
+	top:338px;
+	left:657px;
+}
+
+.heading{
+	margin-bottom:64px;
+}
+
+.MA{
+	float:left;
+	width:500px;
+	height:400px;
+}
+	
+
+.WW{
+	position:absolute;
+	left:285px;
+	top:775px;
+	width:780px;
+
+}
+
+.WY{
+	position:absolute;
+	Left:695px;
+	top:775px;
+	width:780px;
+}
+	
+.SC{
+	font-size:50px;
+	font-weight:100px;
+}
+		
+.table{
+	padding:10px;
+	border:1 px solid black;
+}
+	
+td, th {
+    border:1px solid black;
+    text-align: left;
+    padding: 8px;
+	width:1000px;
+	height:150px;
+}
+
+.NO{
+	width:500px;
+	height;500px;
+}
+
+	
+</style>
